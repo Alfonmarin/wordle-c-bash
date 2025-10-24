@@ -47,11 +47,11 @@ El proyecto incluye un **script Bash** para compilar, ejecutar y gestionar el ju
 ## ▶️ Cómo ejecutar el proyecto
 - 0. Asegúrate de tener permisos de ejecución sobre el script y tener gcc instalado.
 
-- 1. Abre una terminal en el directorio del proyecto (src).
+- 1. Abre una terminal en el directorio del proyecto **(src)**.
 
 - 2. Compila el programa ejecutando: **bash wordle.sh construir**
 
-- 3. Inicia el juego con: **bash wordle.sh construir**
+- 3. Inicia el juego con: **bash wordle.sh jugar**
 
 - 4. (Opcional) Para limpiar los archivos objeto y el ejecutable: **bash wordle.sh limpiar**
    
